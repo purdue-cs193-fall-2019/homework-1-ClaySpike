@@ -1,4 +1,4 @@
-##Welcome to this homework project thing yay!
+## Welcome to this homework project thing yay!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus rutrum ipsum vitae ipsum tempor, sed fermentum lacus suscipit. Integer elit ex, ornare quis suscipit ac, suscipit sit amet augue. Cras molestie felis felis, quis mollis dolor ultrices nec. Pellentesque pellentesque turpis augue, ornare consectetur quam lobortis in. Duis sodales mi lorem, vitae volutpat purus dapibus at. Nam in dui volutpat, ullamcorper urna vitae, pellentesque lacus. Curabitur laoreet pharetra vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
@@ -10,7 +10,7 @@ Nulla facilisi. Quisque at nunc maximus, rhoncus metus posuere, ornare urna. Int
 
 Fusce mattis pulvinar metus, id congue tellus elementum id. Aenean eu nisi quis nulla pretium iaculis sit amet ac enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc laoreet libero ac leo rhoncus ornare. Donec malesuada turpis neque, et ultrices ipsum semper in. Nulla ultricies sed nibh ut semper. Pellentesque finibus, mauris non interdum commodo, odio ante bibendum enim, faucibus commodo odio sapien et leo. Integer pharetra libero quam, sit amet dapibus eros cursus vel. Mauris luctus tellus a auctor pulvinar. Vestibulum mollis enim in justo pellentesque dapibus.
 
-##Also here are the bulleted list of things you asked for
+## Also here are the bulleted list of things you asked for
 
 - It's a class
 - Hopefully it'll teach me about things that I don't know
